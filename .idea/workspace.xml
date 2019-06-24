@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cf2d92b-4c7a-49c1-9d1a-82fcec2fce93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Analogue/.idea/Analogue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Analogue/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0203/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/CastomObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/DataObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/NonSerialisble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork0702/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork1602/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork1602/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Cellphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassWork2302/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/Chamomile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowersLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowersSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flowers/src/Tulip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/FruitsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/TradeShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Annotations/JsonIgnore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Annotations/JsonProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharesterMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndentedJsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JsonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/src/CallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/src/CallBackModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/src/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/src/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/src/CallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/src/ClassHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/IplayAllSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/IplaySong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/petia/BeisePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/src/petia/PlayerWithPlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/BuubleDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/BuubleUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/InsertsSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/PutInMass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MyClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Servise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading1/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHashMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHashMap/src/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search/src/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search/src/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/SamAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/ForaDasha/DelenieNaDva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Lamda/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Lamda/NumFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serializable/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serializable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serializable/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serializable/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/IStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/MassegeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/ArrayIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/IArrayToSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/SortMass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suffering/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suffering/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suffering/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suffering/src/OuterProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suffering/src/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Trapezium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkWithFile/src/WorkWithFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/JsonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/ObjectArrayMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Advanced/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarСonstructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarСonstructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassWork0702/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0702/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassWork0702/src/Switcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0702/src/Switcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassWork0902/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0902/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassWork2601/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork2601/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassWork3101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork3101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dom1/Dom1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curse1" beforeDir="false" afterPath="$PROJECT_DIR$/../curse1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curse11" beforeDir="false" afterPath="$PROJECT_DIR$/../curse11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hometask1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hometask1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task" beforeDir="false" afterPath="$PROJECT_DIR$/../task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2" beforeDir="false" afterPath="$PROJECT_DIR$/../task2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" afterPath="$PROJECT_DIR$/../test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1" beforeDir="false" afterPath="$PROJECT_DIR$/../test1" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-35">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-235">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JsonSerializer.java" />
+        <option value="$PROJECT_DIR$/src/BooleanMapper.java" />
+        <option value="$PROJECT_DIR$/src/MapMapper.java" />
+        <option value="$PROJECT_DIR$/src/NumberMapper.java" />
+        <option value="$PROJECT_DIR$/src/CharesterMap.java" />
+        <option value="$PROJECT_DIR$/src/JsonIgnore.java" />
+        <option value="$PROJECT_DIR$/src/JsonProperty.java" />
+        <option value="$PROJECT_DIR$/src/IndentedJsonWriter.java" />
+        <option value="$PROJECT_DIR$/src/StringMapper.java" />
+        <option value="$PROJECT_DIR$/src/Utils.java" />
+        <option value="$PROJECT_DIR$/src/Mappers/JsonMapper.java" />
+        <option value="$PROJECT_DIR$/src/JsonWriter.java" />
+        <option value="$PROJECT_DIR$/src/Mappers/BooleanMapper.java" />
+        <option value="$PROJECT_DIR$/src/mappers/CharesterMap.java" />
+        <option value="$PROJECT_DIR$/src/mappers/BooleanMapper.java" />
+        <option value="$PROJECT_DIR$/src/JsonMapper.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="507" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JsonSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonSer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsonSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonSer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JsonSer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cf2d92b-4c7a-49c1-9d1a-82fcec2fce93" name="Default Changelist" comment="" />
+      <created>1561125481873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561125481873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28433734" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1702" column="18" selection-start-line="1702" selection-start-column="18" selection-end-line="1702" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/javafx-mx.jar!/com/oracle/javafx/jmx/json/JSONDocument.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Annotations/JsonProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Annotations/JsonIgnore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="62" column="58" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="389" column="16" selection-start-line="389" selection-start-column="16" selection-end-line="389" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharesterMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JsonMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JsonSer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
