@@ -22,6 +22,7 @@ public class Serializer {
         BooleanMapper booleanMapper = new BooleanMapper();
         MapMapper mapMapper = new MapMapper();
         CharesterMap charesterMap = new CharesterMap();
+        ObjectArrayMapper objectArrayMapper = new ObjectArrayMapper();
 
         Map<Class, JsonMapper> mappersCache = new HashMap<>();
         Map<Class, Field[]> customMapper = new HashMap<>();
@@ -48,6 +49,8 @@ public class Serializer {
         mappersCache.put(Boolean.class, booleanMapper);
 
         mappersCache.put(Map.class, mapMapper);
+
+        mappersCache.put(Object[].class, objectArrayMapper);
 
 
         for (Field field : fields) {

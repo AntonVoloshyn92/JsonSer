@@ -12,58 +12,10 @@ public class Main {
         ClassForTest class1 = new ClassForTest();
 
         class1.setMap();
+        class1.setObjects();
 
         new Serializer().jsonSerializer(class1);
     }
-
-
-
-
-
-   /* public static Class testMap(Map<Class, JsonMapper> map) {
-        for (Map.Entry<Class, JsonMapper> e : map.entrySet()) {
-            Class key = e.getKey();
-            *//*Object value = e.getValue();
-            System.out.print("{" + key);
-            System.out.print(" : ");
-            System.out.println(value + "}");*//*
-        }
-        return
-    }*/
-}
-
-class CustomMapper {
-
-    public Map<Class, Field[]> createMapper(Object object) {
-        Map<Class, Field[]> map = new HashMap<>();
-        Class clazz = object.getClass();
-        Field[] fields = clazz.getDeclaredFields();
-
-        map.put(clazz, fields);
-        return map;
-    }
-
-
-    private Map<Field, JsonMapper> mappers;
-
-    CustomMapper(Object object) throws IllegalAccessException {
-        Class c = object.getClass();
-        Field[] fields = c.getFields();
-
-        for (Field field : fields) {
-
-            String name = field.getName();
-            String value = (String) field.get(object);
-
-            System.out.println(name);
-            System.out.println(value);
-          /* if (field is string) {
-                mappers.put(field, stringMapper)
-            }*/
-
-        }
-    }
-
 
 }
 
@@ -78,6 +30,13 @@ class ClassForTest {
     private char aChar = '4';
 
     People people = new People();
+
+    Object[] objects = new Object[2];
+
+    public void setObjects() {
+        objects[0] = 3;
+        objects[1] = "sss";
+    }
 
 
     Map<String, String> map = new HashMap<>();

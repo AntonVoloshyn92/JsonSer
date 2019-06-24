@@ -2,168 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf2d92b-4c7a-49c1-9d1a-82fcec2fce93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Analogue/.idea/Analogue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Analogue/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0203/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/CastomObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/DataObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0203/src/NonSerialisble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork0702/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork1602/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork1602/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Cellphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2102/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClassWork2302/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/Chamomile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowersLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/FlowersSaver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flowers/src/Tulip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/FruitsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/TradeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FruitShop/src/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotations/JsonIgnore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotations/JsonProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharesterMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndentedJsonWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JsonMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JsonWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/src/CallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/src/CallBackModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/src/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/src/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/src/CallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/src/ClassHomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lamda1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library/src/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Library/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/IplayAllSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/IplaySong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/PlayerTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/petia/BeisePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MP3Player/src/petia/PlayerWithPlayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/BuubleDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/BuubleUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/InsertsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/PutInMass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MediumProjest/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/MyClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Servise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading1/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyHashMap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyHashMap/src/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Search/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Search/src/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Search/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/AnonimClass/SamAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/ForaDasha/DelenieNaDva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Lamda/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Lamda/NumFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelfStudy/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Serializable/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Serializable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Serializable/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Serializable/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/IStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Socket-ServerSocket1/src/MassegeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/ArrayIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/IArrayToSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortMassDifferentWays/src/SortMass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Suffering/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Suffering/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Suffering/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Suffering/src/OuterProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Suffering/src/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Trapezium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TrapezoidArea/src/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WorkWithFile/src/WorkWithFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/JsonMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/JsonSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_final_core_13/src/ObjectArrayMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Advanced/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Advanced/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarСonstructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarСonstructor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWork0702/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0702/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWork0702/src/Switcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0702/src/Switcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWork0902/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork0902/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWork2601/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork2601/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWork3101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWork3101/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dom1/Dom1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curse1" beforeDir="false" afterPath="$PROJECT_DIR$/../curse1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curse11" beforeDir="false" afterPath="$PROJECT_DIR$/../curse11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hometask1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hometask1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task" beforeDir="false" afterPath="$PROJECT_DIR$/../task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task2" beforeDir="false" afterPath="$PROJECT_DIR$/../task2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" afterPath="$PROJECT_DIR$/../test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1" beforeDir="false" afterPath="$PROJECT_DIR$/../test1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectArrayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serializer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -180,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="176">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -190,9 +35,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Serializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ObjectArrayMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235">
+            <state relative-caret-position="-599">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -204,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,7 +96,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -245,22 +117,15 @@
         <option value="$PROJECT_DIR$/src/mappers/CharesterMap.java" />
         <option value="$PROJECT_DIR$/src/mappers/BooleanMapper.java" />
         <option value="$PROJECT_DIR$/src/JsonMapper.java" />
+        <option value="$PROJECT_DIR$/src/ObjectArrayMapper.java" />
+        <option value="$PROJECT_DIR$/src/Serializer.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="507" />
-    <option name="height" value="808" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -270,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,11 +153,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -338,7 +204,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,16 +298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BooleanMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -455,9 +311,6 @@
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -476,9 +329,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
+        <state relative-caret-position="-599">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -486,10 +349,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjectArrayMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="176">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
