@@ -9,23 +9,24 @@ import java.util.Map;
 public class Serializer {
     public static void jsonSerializer(Object object) throws IllegalAccessException, ClassNotFoundException, NoSuchFieldException, InstantiationException {
 
-        Class c = object.getClass();
-        Field[] fields = c.getDeclaredFields();
+        Class        c         = object.getClass();
+        Field[]      fields    = c.getDeclaredFields();
         Annotation[] annotates = c.getAnnotations();// oll annotations for JSON
 
 
         JsonWriter jsonWriter = new JsonWriter();
 
         //place for mappers
-        StringMapper stringMapper = new StringMapper();
-        NumberMapper numberMapper = new NumberMapper();
-        BooleanMapper booleanMapper = new BooleanMapper();
-        MapMapper mapMapper = new MapMapper();
-        CharesterMap charesterMap = new CharesterMap();
+        StringMapper      stringMapper      = new StringMapper();
+        NumberMapper      numberMapper      = new NumberMapper();
+        BooleanMapper     booleanMapper     = new BooleanMapper();
+        MapMapper         mapMapper         = new MapMapper();
+        CharesterMap      charesterMap      = new CharesterMap();
         ObjectArrayMapper objectArrayMapper = new ObjectArrayMapper();
+        PrimitiveArrayMapper primitiveArrayMapper = new PrimitiveArrayMapper();
 
         Map<Class, JsonMapper> mappersCache = new HashMap<>();
-        Map<Class, Field[]> customMapper = new HashMap<>();
+        Map<Class, Field[]>    customMapper = new HashMap<>();
 
         mappersCache.put(int.class, numberMapper);
         mappersCache.put(Integer.class, numberMapper);
@@ -51,6 +52,15 @@ public class Serializer {
         mappersCache.put(Map.class, mapMapper);
 
         mappersCache.put(Object[].class, objectArrayMapper);
+        mappersCache.put(byte[].class, primitiveArrayMapper);
+        mappersCache.put(short[].class, primitiveArrayMapper);
+        mappersCache.put(int[].class, primitiveArrayMapper);
+        mappersCache.put(char[].class, primitiveArrayMapper);
+        mappersCache.put(float[].class, primitiveArrayMapper);
+        mappersCache.put(double[].class, primitiveArrayMapper);
+        mappersCache.put(long[].class, primitiveArrayMapper);
+        mappersCache.put(boolean[].class, primitiveArrayMapper);
+
 
 
         for (Field field : fields) {
@@ -66,7 +76,7 @@ public class Serializer {
             if (mappersCache.containsKey(field.getType())) {
                 mappersCache.get(field.getType()).write(field.get(object), field, jsonWriter);
             } else {
-                Object o = field.get(object);
+                Object  o       = field.get(object);
                 Field[] fields1 = o.getClass().getDeclaredFields();
                 customMapper.put(field.getType(), fields1);
                 if (customMapper.containsKey(field.getType())) {
