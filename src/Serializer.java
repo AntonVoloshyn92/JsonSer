@@ -52,6 +52,15 @@ public class Serializer {
         mappersCache.put(Map.class, mapMapper);
 
         mappersCache.put(Object[].class, objectArrayMapper);
+        mappersCache.put(Byte[].class, objectArrayMapper);
+        mappersCache.put(Short[].class, objectArrayMapper);
+        mappersCache.put(Integer[].class, objectArrayMapper);
+        mappersCache.put(Character[].class, objectArrayMapper);
+        mappersCache.put(Float[].class, objectArrayMapper);
+        mappersCache.put(Double[].class, objectArrayMapper);
+        mappersCache.put(Long[].class, objectArrayMapper);
+        mappersCache.put(Boolean[].class, objectArrayMapper);
+
         mappersCache.put(byte[].class, primitiveArrayMapper);
         mappersCache.put(short[].class, primitiveArrayMapper);
         mappersCache.put(int[].class, primitiveArrayMapper);
