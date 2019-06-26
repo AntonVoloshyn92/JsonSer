@@ -2,10 +2,6 @@ import java.lang.reflect.Field;
 
 public class CharesterMap implements JsonMapper {
 
-    public CharesterMap (){
-
-    }
-
     @Override
     public void write(Object object, Field field, JsonWriter jsonWriter) {
         if (object == null) {
@@ -17,7 +13,6 @@ public class CharesterMap implements JsonMapper {
             jsonWriter.writePropertySeparator();
             jsonWriter.writeString(object.toString());
             jsonWriter.writeObjectEnd();
-            jsonWriter.writeString("\n");
             jsonWriter.flush();
         }
     }

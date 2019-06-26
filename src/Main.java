@@ -3,18 +3,17 @@ import Annotations.JsonProperty;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class Main {
 
     public static void main(String[] args) throws IllegalAccessException, ClassNotFoundException, NoSuchFieldException, InstantiationException {
-        ClassForTest class1 = new ClassForTest();
 
-        class1.setMap();
-        class1.setObjects();
 
-        new Serializer().jsonSerializer(class1);
+
     }
 
 }
@@ -30,14 +29,30 @@ class ClassForTest {
     private char aChar = '4';
 
     People people = new People();
+    Woman woman = new Woman();
 
     Object[] objects = new Object[2];
+
+    Integer[] massInt = new Integer[3];
+
+    public void setMassInt() {
+        massInt[0] = 1;
+        massInt[1] = 2;
+        massInt[2] = 3;
+    }
+
+    List<String> list = new ArrayList<>();
+
+    public void setList1(){
+        list.add("AAAAA");
+        list.add("BBBBB");
+        list.add("CCCCC");
+    }
 
     public void setObjects() {
         objects[0] = 3;
         objects[1] = "sss";
     }
-
 
     Map<String, String> map = new HashMap<>();
 
@@ -47,10 +62,14 @@ class ClassForTest {
         map.put("Pety", null);
     }
 
-
     static public class People {
         int age = 31;
         String name = "Petya";
+    }
+
+    static public class Woman {
+        int age = 21;
+        String name = "Lena";
     }
 
 }

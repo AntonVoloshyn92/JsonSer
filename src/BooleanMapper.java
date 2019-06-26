@@ -4,10 +4,6 @@ import java.lang.reflect.Field;
 
 public class BooleanMapper implements JsonMapper {
 
-    public BooleanMapper() {
-
-    }
-
     @Override
     public void write(Object object, Field field, JsonWriter jsonWriter) {
 
@@ -20,7 +16,6 @@ public class BooleanMapper implements JsonMapper {
             jsonWriter.writePropertySeparator();
             jsonWriter.writeBoolean((Boolean) object);
             jsonWriter.writeObjectEnd();
-            jsonWriter.writeString("\n");
             jsonWriter.flush();
         }
     }

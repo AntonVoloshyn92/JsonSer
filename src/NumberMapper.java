@@ -16,7 +16,6 @@ public class NumberMapper implements JsonMapper {
             jsonWriter.writePropertySeparator();
             jsonWriter.writeNumber((Number) object);
             jsonWriter.writeObjectEnd();
-            jsonWriter.writeString("\n");
             jsonWriter.flush();
         }
     }

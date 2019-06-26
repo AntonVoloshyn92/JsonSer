@@ -1,3 +1,5 @@
+import Annotations.JsonProperty;
+
 import java.lang.reflect.Field;
 
 public class StringMapper implements JsonMapper {
@@ -17,7 +19,6 @@ public class StringMapper implements JsonMapper {
             jsonWriter.writePropertySeparator();
             jsonWriter.writeString(object.toString());
             jsonWriter.writeObjectEnd();
-            jsonWriter.writeString("\n");
             jsonWriter.flush();
         }
 

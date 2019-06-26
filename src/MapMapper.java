@@ -15,10 +15,8 @@ public class MapMapper implements JsonMapper {
             jsonWriter.writeString((String) key);
             jsonWriter.writePropertySeparator();
             jsonWriter.writeString((String) value);
-            jsonWriter.writeString("\n");
         }
         jsonWriter.writeObjectEnd();
-        jsonWriter.writeString("\n");
         jsonWriter.flush();
     }
 
@@ -32,7 +30,6 @@ public class MapMapper implements JsonMapper {
                 jsonWriter.writeObjectBegin();
                 jsonWriter.writeString(field.getName());
                 jsonWriter.writePropertySeparator();
-                jsonWriter.writeString("\n");
                 jsonWriter.flush();
                 write((Map<?, ?>) object, jsonWriter);
             }

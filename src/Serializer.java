@@ -1,32 +1,38 @@
 import Annotations.JsonProperty;
 
 import java.lang.annotation.Annotation;
+import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
-public class Serializer {
+public enum  Serializer {//todo with ENUM;
+    // вынести enum в основной метод
+    // вынести Map в основной метод
+    // сделать до  09/07/2019
+    INSTANCE;
     public static void jsonSerializer(Object object) throws IllegalAccessException, ClassNotFoundException, NoSuchFieldException, InstantiationException {
 
-        Class        c         = object.getClass();
-        Field[]      fields    = c.getDeclaredFields();
+        Class c = object.getClass();
+        Field[] fields = c.getDeclaredFields();
         Annotation[] annotates = c.getAnnotations();// oll annotations for JSON
 
 
         JsonWriter jsonWriter = new JsonWriter();
 
         //place for mappers
-        StringMapper      stringMapper      = new StringMapper();
-        NumberMapper      numberMapper      = new NumberMapper();
-        BooleanMapper     booleanMapper     = new BooleanMapper();
-        MapMapper         mapMapper         = new MapMapper();
-        CharesterMap      charesterMap      = new CharesterMap();
+        StringMapper stringMapper = new StringMapper();
+        NumberMapper numberMapper = new NumberMapper();
+        BooleanMapper booleanMapper = new BooleanMapper();
+        MapMapper mapMapper = new MapMapper();
+        CharesterMap charesterMap = new CharesterMap();
         ObjectArrayMapper objectArrayMapper = new ObjectArrayMapper();
         PrimitiveArrayMapper primitiveArrayMapper = new PrimitiveArrayMapper();
+        CollectionMapper collectionMapper = new CollectionMapper();
 
         Map<Class, JsonMapper> mappersCache = new HashMap<>();
-        Map<Class, Field[]>    customMapper = new HashMap<>();
+        Map<Class, Field[]> customMapper = new HashMap<>();
 
         mappersCache.put(int.class, numberMapper);
         mappersCache.put(Integer.class, numberMapper);
@@ -70,12 +76,27 @@ public class Serializer {
         mappersCache.put(long[].class, primitiveArrayMapper);
         mappersCache.put(boolean[].class, primitiveArrayMapper);
 
+        mappersCache.put(Collection.class, collectionMapper);
+        mappersCache.put(List.class, collectionMapper);
+        mappersCache.put(Set.class, collectionMapper);
+        mappersCache.put(HashSet.class, collectionMapper);
+        mappersCache.put(TreeSet.class, collectionMapper);
+        mappersCache.put(ArrayList.class, collectionMapper);
+        mappersCache.put(LinkedList.class, collectionMapper);
+        mappersCache.put(Vector.class, collectionMapper);
+        mappersCache.put(Collectors.class, collectionMapper);
+        mappersCache.put(Arrays.class, collectionMapper);
+        mappersCache.put(AbstractCollection.class, collectionMapper);
 
 
         for (Field field : fields) {
+            if (field == null) {
+                jsonWriter.writeNull();
+                continue;
+            }
             int mods = field.getModifiers();
             if (Modifier.isTransient(mods) || Modifier.isPrivate(mods)) {
-                if (!field.isAnnotationPresent(JsonProperty.class)) {//todo test
+                if (!field.isAnnotationPresent(JsonProperty.class)) {
                     continue;
                 } else {
                     field.setAccessible(true);
@@ -85,22 +106,28 @@ public class Serializer {
             if (mappersCache.containsKey(field.getType())) {
                 mappersCache.get(field.getType()).write(field.get(object), field, jsonWriter);
             } else {
-                Object  o       = field.get(object);
+                Object o = field.get(object);
+                if (o == null){
+                    jsonWriter.writeNull();
+                    continue;
+                }
                 Field[] fields1 = o.getClass().getDeclaredFields();
                 customMapper.put(field.getType(), fields1);
                 if (customMapper.containsKey(field.getType())) {
                     Field[] fil = customMapper.get(field.getType());
-                    jsonWriter.writeString(field.getName() + "\n");
+                    jsonWriter.writeString(field.getName());
                     jsonWriter.writeObjectBegin();
                     jsonWriter.flush();
                     for (Field field1 : fil) {
-//                        System.out.println(field1.getName() + " " + field1.get(o));
+                        if (field1 == null){
+                            jsonWriter.writeNull();
+                            continue;
+                        }
                         if (mappersCache.containsKey(field1.getType())) {
                             mappersCache.get(field1.getType()).write(field1.get(o), field1, jsonWriter);
                         }
                     }
                     jsonWriter.writeObjectEnd();
-                    jsonWriter.writeString("\n");
                     jsonWriter.flush();
                 }
             }
