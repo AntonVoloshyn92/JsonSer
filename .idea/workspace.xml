@@ -2,39 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf2d92b-4c7a-49c1-9d1a-82fcec2fce93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scratch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scratch_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JsonSer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Annotations/JsonIgnore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Annotations/JsonProperty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/BooleanMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/CharesterMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/BooleanMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JsonSer/BooleanMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/CharesterMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JsonSer/CharesterMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/ClassForTest$People.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/ClassForTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/CustomMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/IndentedJsonWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/JsonWriter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/META-INF/JsonSer.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/MapMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/NumberMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/MapMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JsonSer/MapMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/NumberMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JsonSer/NumberMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Serializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/StringMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Utils$ModifierType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JsonSer/StringMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JsonSer/StringMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BooleanMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BooleanMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CharesterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharesterMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MapMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NumberMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ObjectArrayMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectArrayMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveArrayMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveArrayMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../homework" beforeDir="false" afterPath="$PROJECT_DIR$/../homework" afterDir="false" />
@@ -55,17 +42,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Serializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="114">
+              <caret line="34" column="58" selection-start-line="33" selection-start-column="9" selection-end-line="34" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MapMapper.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="315">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,37 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ObjectArrayMapper.java">
+        <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NumberMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CharesterMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="-837">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,15 +117,15 @@
         <option value="$PROJECT_DIR$/src/MapMapper.java" />
         <option value="$PROJECT_DIR$/src/StringMapper.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/scratch_1.java" />
         <option value="$PROJECT_DIR$/src/MainTest.java" />
         <option value="$PROJECT_DIR$/src/CollectionMapper.java" />
         <option value="$PROJECT_DIR$/src/CharesterMap.java" />
         <option value="$PROJECT_DIR$/src/BooleanMapper.java" />
-        <option value="$PROJECT_DIR$/src/ObjectArrayMapper.java" />
         <option value="$PROJECT_DIR$/src/Serializer.java" />
+        <option value="$PROJECT_DIR$/src/ObjectArrayMapper.java" />
         <option value="$PROJECT_DIR$/src/NumberMapper.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -182,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,10 +160,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="JsonSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonSer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scratch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -236,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JsonSer" />
@@ -253,8 +219,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +249,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1702432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,7 +279,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Three" />
+    <MESSAGE value="ThreeMap" />
+    <MESSAGE value="Four" />
+    <option name="LAST_COMMIT_MESSAGE" value="Four" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -366,30 +334,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="295" column="19" selection-start-line="295" selection-start-column="19" selection-end-line="295" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,18 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scratch_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -419,34 +355,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="148">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Serializer.java">
+    <entry file="file://$PROJECT_DIR$/src/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObjectArrayMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/scratch_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -467,6 +403,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JsonMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -476,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JsonWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="-912">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -494,9 +440,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObjectArrayMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="58" selection-start-line="33" selection-start-column="9" selection-end-line="34" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrimitiveArrayMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="40">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -504,20 +481,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IndentedJsonWriter.java">
+    <entry file="file://$PROJECT_DIR$/src/StringMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="315">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>

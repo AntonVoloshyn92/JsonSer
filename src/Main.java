@@ -12,7 +12,8 @@ public class Main {
 
     public static void main(String[] args) throws IllegalAccessException, ClassNotFoundException, NoSuchFieldException, InstantiationException {
 
-
+        ClassForTest classForTest = new ClassForTest();
+        new Serializer().jsonSerializer(classForTest);
 
     }
 
@@ -21,55 +22,20 @@ public class Main {
 
 class ClassForTest {
 
-    int age = 26;
+    String day = "Friday";
+    int year = 2019;
 
-    public String name = "Anton";
-    boolean isTrue = true;
-    long aLong = 568765;
-    private char aChar = '4';
+    People people = new People("Sofia", 15);
+    People people1 = new People("Anton", 26);
 
-    People people = new People();
-    Woman woman = new Woman();
+    class People {
+        String name;
+        int age;
 
-    Object[] objects = new Object[2];
-
-    Integer[] massInt = new Integer[3];
-
-    public void setMassInt() {
-        massInt[0] = 1;
-        massInt[1] = 2;
-        massInt[2] = 3;
-    }
-
-    List<String> list = new ArrayList<>();
-
-    public void setList1(){
-        list.add("AAAAA");
-        list.add("BBBBB");
-        list.add("CCCCC");
-    }
-
-    public void setObjects() {
-        objects[0] = 3;
-        objects[1] = "sss";
-    }
-
-    Map<String, String> map = new HashMap<>();
-
-    public void setMap() {
-        map.put("LOL", "HAHA");
-        map.put("Anton", "Krasava");
-        map.put("Pety", null);
-    }
-
-    static public class People {
-        int age = 31;
-        String name = "Petya";
-    }
-
-    static public class Woman {
-        int age = 21;
-        String name = "Lena";
+        People(String name, int age) {
+            this.name = name;
+            this.age = age;
+        }
     }
 
 }

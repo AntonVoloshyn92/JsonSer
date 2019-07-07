@@ -1,9 +1,6 @@
 import java.lang.reflect.Field;
 
 public class ObjectArrayMapper implements JsonMapper {
-    public ObjectArrayMapper() {
-
-    }
 
     @Override
     public void write(Object object, Field field, JsonWriter jsonWriter) {

@@ -7,11 +7,11 @@ import java.lang.reflect.Modifier;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public enum  Serializer {//todo with ENUM;
+public class   Serializer {//todo with ENUM;
     // вынести enum в основной метод
     // вынести Map в основной метод
     // сделать до  09/07/2019
-    INSTANCE;
+//    INSTANCE;
     public static void jsonSerializer(Object object) throws IllegalAccessException, ClassNotFoundException, NoSuchFieldException, InstantiationException {
 
         Class c = object.getClass();

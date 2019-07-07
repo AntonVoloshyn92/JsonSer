@@ -1,9 +1,7 @@
 import java.lang.reflect.Field;
 
 public class NumberMapper implements JsonMapper {
-    public NumberMapper() {
 
-    }
 
     @Override
     public void write(Object object, Field field, JsonWriter jsonWriter) {
